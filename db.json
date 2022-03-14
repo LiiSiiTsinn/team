@@ -1,12 +1,12 @@
 {
-  users: [
+  "users": [
     {
-      first_name: Вася,
-      last_name: Пупкин
+      "first_name": "Вася",
+      "last_name": "Пупкин"
     },
     {
-      first_name: Семён,
-      last_name: Семёныч
+      "first_name": Семён",
+      "last_name": Семёныч"
     }
   ]
 }
