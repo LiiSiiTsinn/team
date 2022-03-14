@@ -2,6 +2,9 @@
   "users": [
     {
       "name": "John Doe"
+    },
+    {
+      "name": "Test Text"
     }
   ]
 }
