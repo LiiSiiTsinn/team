@@ -1,0 +1,12 @@
+{
+  users: [
+    {
+      first_name: Вася,
+      last_name: Пупкин
+    },
+    {
+      first_name: Семён,
+      last_name: Семёныч
+    }
+  ]
+}
