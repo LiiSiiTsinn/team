@@ -1,12 +1,11 @@
 {
-  "users": [
+  "posts": [
     {
-      "first_name": "Вася",
-      "last_name": "Пупкин"
-    },
-    {
-      "first_name": "Семён",
-      "last_name": "Семёныч"
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
